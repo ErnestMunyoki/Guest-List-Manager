@@ -36,4 +36,20 @@ If you try to add more than 10 guests, the app will notify you and prevent the a
 ---
 
 ## 📂 Project Structure
+   index.html
+   css- style.css
+   script.js
+
+📬 Contribution
+Feel free to fork the repo and submit a pull request.
+
+
+🧑 Author
+Ernest Munyoki
+GitHub
+
+
+📄 License
+This project is licensed under the MIT License.
+
 
